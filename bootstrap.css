@@ -1,0 +1,80 @@
+p {
+	color: #2A183A;
+	
+}
+
+body {
+	background-color: offwhite;
+}
+
+h1 {
+	color: #4B2E84;
+	font-family: 'Atma';
+}
+
+h2 {
+	color: #2A183A;
+	text-align: middle;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+h4 {
+	color: #2A183A;
+	text-align: center;
+	font-family: 'Barrio'; font-size: 40px
+}
+h5 {
+	color: #4B2E84;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+h6 {
+	color: #222222;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+img {
+	width: 100%;
+	float: center;
+}
+
+ohwell {
+	width:50%;
+}
+
+.kenyon {
+	width: 5%;
+}
+
+.btn-primary {
+	background-color: #4B2E84;
+	border-color: #4B2E84;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #E1306C;
+  color: white;
+}
